@@ -1,9 +1,9 @@
 # pocketbookhack
 
-Inkpad-3 has lot of bugs and some file formats cannot be read. See bmps.
+Inkpad-3: 
 
 fbreader to fix the issue of pocketbook bugs and programming issues.
-
+Before see bmps:
 
 ![](https://raw.githubusercontent.com/spartrekus/pocketbookhack/master/scr0001.bmp)
 
