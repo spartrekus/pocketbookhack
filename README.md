@@ -12,3 +12,6 @@ fbreader to fix the issue of pocketbook bugs and programming issues.
 
 ![](https://raw.githubusercontent.com/spartrekus/pocketbookhack/master/scr0017.bmp)
 
+
+![](![](https://raw.githubusercontent.com/spartrekus/pocketbookhack/master/scr0020.bmp)
+
